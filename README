@@ -1,0 +1,39 @@
+Autor/Author: Victor Ribeiro Carreira <victorcarreira@on.br>
+
+GEOLOGVS: Este é um dicionário interativo que foi criado inicialmente para enriquecer o jargão geológico dentro da comunidade geofísica. 
+
+Copyright (C) 2014 - 2015 por Victor Ribeiro Carreira <victorcarreira@on.br>
+
+=============
+APRESENTAÇÃO
+=============
+
+O projeto GEOLOGVS tem somente um criador/autor/Author. E, somente um colaborador até o momento presente.
+
+**********************************************************************************
+* Este é um dicionário interativo de termos geológicos e geofísicos em português;*
+* Este programa é livre e pode ser redistribuído e/ou modificado  e está escrito *
+* em python;                                                                     *
+**********************************************************************************
+
+======================
+PRIMEIRA EDIÇÃO
+======================
+. Criação do primeiro script em python;
+. Inclusão dos termos: Rocha, Bússola.
+
+=============================
+COMO INSTALAR O GEOLOGVS
+=============================
+
+O programa ainda não está disponível para download. 
+Futuramente um site fará a hospedagem do programa.
+
+===================
+DÚVIDAS FREQUENTES
+===================
+
+Para efetuar a pesquisa basta digitar o nome ou termo de pesquisa, logo abaixo da saudação.
+
+
+
