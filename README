@@ -1,7 +1,6 @@
 Autor/Author: Victor Ribeiro Carreira <victorcarreira@on.br>
 
-GEOLOGVS: Este é um dicionário interativo que foi criado inicialmente para enriquecer o jargão geológico dentro da comunidade geofísica. 
-
+GEOLOGVS: Este é um dicionário interativo que foi criado inicialmente para enriquecer o meu aprendizado em python.
 Copyright (C) 2014 - 2015 por Victor Ribeiro Carreira <victorcarreira@on.br>
 
 =============
@@ -26,8 +25,7 @@ PRIMEIRA EDIÇÃO
 COMO INSTALAR O GEOLOGVS
 =============================
 
-O programa ainda não está disponível para download. 
-Futuramente um site fará a hospedagem do programa.
+O único pré-requisito é ter o python instalado.
 
 ===================
 DÚVIDAS FREQUENTES
